@@ -13,12 +13,12 @@ I've completed the following projects as part of my internship:
 ### Task 1: Number Guessing Game
 
 *   **Description:** A simple game where the user tries to guess a randomly generated number. The program provides feedback on whether the guess is too high or too low.
-*   **Link to Code:** [Link to your Number Guessing Game code file]
+*   **Link to Code:** [https://github.com/edenmengste/CODSOFT/blob/main/Task_1(number_guessing_game).cpp]
 
 ### Task 2: Simple Calculator
 
 *   **Description:** A command-line calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two user-inputted numbers.
-*   **Link to Code:** [Link to your Simple Calculator code file]
+*   **Link to Code:** []
 
 ### Task 3: Tic-Tac-Toe Game
 
