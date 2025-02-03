@@ -23,7 +23,7 @@ I've completed the following projects as part of my internship:
 ### Task 3: Tic-Tac-Toe Game
 
 *   **Description:** A console-based Tic-Tac-Toe game that allows two players to compete against each other. The game includes features like checking for wins, draws, and switching players.
-*   **Link to Code:** [Link]
+*   **Link to Code:** [https://github.com/edenmengste/CODSOFT/blob/main/task_3(tic_tac_toe).cpp]
 
 ### Task 4: To-Do List
 
