@@ -18,7 +18,7 @@ I've completed the following projects as part of my internship:
 ### Task 2: Simple Calculator
 
 *   **Description:** A command-line calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two user-inputted numbers.
-*   **Link to Code:** [Simple Calculator]()
+*   **Link to Code:** [Simple Calculator](https://github.com/edenmengste/CODSOFT/blob/main/Task_2(simple_calculator).cpp)
 
 ### Task 3: Tic-Tac-Toe Game
 
