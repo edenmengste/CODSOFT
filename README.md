@@ -37,7 +37,7 @@ I've completed the following projects as part of my internship:
 
 ## Future Plans
 
-During this internship, I faced several challenges. Overcoming these challenges helped me learn many things. I plan to continue learning and exploring C++ further by [mention your future learning plans, e.g., working on personal projects, contributing to open-source projects, or learning advanced C++ features].
+During this internship, I faced several challenges. Overcoming these challenges helped me learn many things. I plan to continue learning and exploring C++ further by working on personal projects, contributing to open-source projects, or learning advanced C++ features.
 
 
 Thank you for this incredible opportunity! I'm excited to continue learning and growing as a C++ developer.
