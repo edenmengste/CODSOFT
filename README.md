@@ -13,17 +13,17 @@ I've completed the following projects as part of my internship:
 ### Task 1: Number Guessing Game
 
 *   **Description:** A simple game where the user tries to guess a randomly generated number. The program provides feedback on whether the guess is too high or too low.
-*   **Link to Code:** [https://github.com/edenmengste/CODSOFT/blob/main/Task_1(number_guessing_game).cpp]
+*   **Link to Code:** [Number Guessing Game](https://github.com/edenmengste/CODSOFT/blob/main/Task_1(number_guessing_game).cpp)
 
 ### Task 2: Simple Calculator
 
 *   **Description:** A command-line calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two user-inputted numbers.
-*   **Link to Code:** []
+*   **Link to Code:** [Simple Calculator]()
 
 ### Task 3: Tic-Tac-Toe Game
 
 *   **Description:** A console-based Tic-Tac-Toe game that allows two players to compete against each other. The game includes features like checking for wins, draws, and switching players.
-*   **Link to Code:** [https://github.com/edenmengste/CODSOFT/blob/main/task_3(tic_tac_toe).cpp]
+*   **Link to Code:** [Tic-tac-toe Game](https://github.com/edenmengste/CODSOFT/blob/main/task_3(tic_tac_toe).cpp)
 
 ### Task 4: To-Do List
 
